@@ -3,14 +3,14 @@
 
 # Structure Project
 
-├── Test Cases
+├── **Test Cases**
 │   ├── TC01 Create Booking with valid data      
 │   ├── TC02 Create Booking with valid invalid data       
 │   ├── TC03 Get Booking ID by ID        
 │   ├── TC04 Update Booking Data        
 |   ├── TC05 Delete Booking Data       
 │
-├── Object Repository
+├── **Object Repository**
 │   ├── Create Token                                     # Object for POST request
 │   ├── Create booking ID                                # Object for POST request
 │   ├── Create booking ID firstname null                 # Object for POST request
@@ -22,10 +22,13 @@
 │   ├── Partial Update                                   # Object for PATCH request
 │   ├── HealthCheck                                      # Object for DELETE request
 │
-├── Global Variables
+├── **Global Variables**
 │   ├── GlobalVariable.Base_URL  
 │   ├── GlobalVariable.token  
 |
 └── README.md
+
+
+
 
 
