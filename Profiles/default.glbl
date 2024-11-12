@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://documenter.getpostman.com/view/15027243/2s935oKPGA#f749fa8c-731f-4ecf-8378-d50ee77395dd'</initValue>
+      <name>base_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
